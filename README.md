@@ -231,3 +231,6 @@ This repository serves as the official landing page for Royale Remixed. The soft
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Royale Remixed today!**
+
+---
+**Last updated:** 2026-09-11 19:21:12 UTC
