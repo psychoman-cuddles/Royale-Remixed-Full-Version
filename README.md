@@ -233,4 +233,4 @@ This repository serves as the official landing page for Royale Remixed. The soft
 **Get the most recent version of Royale Remixed today!**
 
 ---
-**Last updated:** 2026-09-12 23:31:03 UTC
+**Last updated:** 2026-09-13 01:48:35 UTC
